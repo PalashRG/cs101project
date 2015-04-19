@@ -1,0 +1,6 @@
+The new features added to our project after demo are :
+
+1) Movement of the powerups in the game.
+2) Displaying the current level number on the screen.
+
+------------------------------------------------------------- END ----------------------------------------------
